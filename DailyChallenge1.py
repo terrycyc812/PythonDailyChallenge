@@ -9,4 +9,3 @@ def clean_string(s):
     return a
 
 print(clean_string("Abc.De!@f13J"))
-print("Testing~")
