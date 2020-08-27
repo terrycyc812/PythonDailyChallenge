@@ -1,2 +1,2 @@
 print("Please feel free to edit: ")
-Print("OillioChung1")
+print("OillioChung")
